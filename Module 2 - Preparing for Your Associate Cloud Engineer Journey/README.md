@@ -12,3 +12,10 @@ You'll learn about the role of an associate cloud engineer, the types of resourc
    1. [workbook powerpoint](../Assets/Module-2/workbook/ACE_Workbook_v2.0.pptx)
    2. [workbook pdf](../Assets/Module-2/workbook/ACE_Workbook_v2.0.pdf)
    3. [workbook](../Assets/Module-2/workbook/T-GCPACE-m0-l6-en-file-6.en.pdf)
+
+### Section 2: Setting up a cloud solution environment
+
+1. [Set up Cymbal Superstore's cloud environment](./2.%20Setting%20up%20a%20cloud%20solution%20environment/set%20up%20Cymbal%20Superstore%27s%20cloud%20environment.md)
+2. [Diagnostic questions](../Assets/Module-2/2.%20Setting%20up%20a%20cloud%20solution%20environment/Diagnostic%20questions.png)
+3. [Study plan resources](../Assets/Module-2/2.%20Setting%20up%20a%20cloud%20solution%20environment/Study%20plan%20resources.en.pdf)
+4. [Knowledge check](../Assets/Module-2/2.%20Setting%20up%20a%20cloud%20solution%20environment/Knowledge%20Check%20.png)
