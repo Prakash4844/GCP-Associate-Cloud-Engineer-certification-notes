@@ -26,3 +26,10 @@ You'll learn about the role of an associate cloud engineer, the types of resourc
 2. [Diagnostic questions](../Assets/Module-2/3.%20Plan%20and%20configure%20a%20cloud%20solution/Diagnostics%20Questions.png)
 3. [Study Plan](../Assets/Module-2/3.%20Plan%20and%20configure%20a%20cloud%20solution/Study%20plan.en.pdf)
 4. [Knowledge Check](../Assets/Module-2/3.%20Plan%20and%20configure%20a%20cloud%20solution/%20Knowledge%20Check.png)
+
+### Section 4: Deploying and Implementing Cloud Solutions.
+
+1. [Deploying and implementing Cymbal Superstore’s cloud recommended solutions](4.%20Deploying%20and%20Implementing%20Cloud%20Solutions./Deploying%20and%20implementing%20Cymbal%20Superstore’s%20cloud%20recommended%20solutions.md)
+2. [Diagnostic questions](../Assets/Module-2/4.%20Deploying%20and%20Implementing%20Cloud%20Solutions./Diagonostic%20ques.png)
+3. [Study Plan](../Assets/Module-2/4.%20Deploying%20and%20Implementing%20Cloud%20Solutions./Study%20Plan.en.pdf)
+4. [Knowledge Check](../Assets/Module-2/4.%20Deploying%20and%20Implementing%20Cloud%20Solutions./%20Knowledge%20Check%20.png)
